@@ -6,9 +6,27 @@ This project provides a detailed analysis of sales data from the website krecik.
 # Technologies Used
 ## **Python**:
   - **Pandas**
+    - Pandas was employed for data manipulation and analysis. It was particularly useful in cleaning the dataset, handling missing values, and performing aggregations. Pandas' groupby() function was extensively used to          calculate monthly revenues and summarize data such as the most frequently ordered products.
+    -**Example tasks included:**:
+    -  Loading the dataset from a CSV file and exploring its structure using functions like pd.read_csv() and df.describe().
+    -  Cleaning and transforming product names using string manipulation and regular expressions.
+    -  Aggregating data to calculate total monthly revenue and the number of orders containing LEGO products.
+
   - **Matplotlib**
-  - **Regular Expressions** 
+    - Matplotlib was used to create visualizations that helped uncover trends in the data. Line plots were generated to track monthly revenue changes, while bar charts highlighted the most popular products and cities            contributing to sales.
+    - Visualizations helped to make the analysis more interpretable and actionable, allowing for the identification of seasonal trends and best-selling products.
+    - Specific plots included:
+      - Monthly revenue trends for both overall sales and LEGO-specific sales.
+      - Top 10 products by number of orders and total revenue.
+      
+  - **Regular Expressions (regex)** 
+    - Regular expressions were used to identify orders containing LEGO products by searching for specific patterns in product names. This was necessary because some product names were inconsistent, and regular expressions       provided a powerful way to detect LEGO-related items based on key terms such as “LEGO” or certain product codes.
+    - Regex allowed for efficient filtering of the data, ensuring that only relevant rows (i.e., orders containing LEGO products) were analyzed for specific insights.
+
   - **Jupyter Notebook**
+    - Jupyter Notebook was the main environment for conducting the analysis. It provided an interactive platform to write code, visualize data, and document the analysis process in real-time.
+    - Jupyter's ability to combine code execution with markdown allowed for a seamless integration of code snippets, charts, and explanations, making the analysis easier to follow.
+    - It was particularly useful for iteratively refining the analysis and quickly testing different approaches to data manipulation and visualization.
 
 # Data Analysis Process
 The analysis focused on several key areas:
@@ -38,3 +56,6 @@ The analysis provided several valuable insights:
 
 
 
+
+
+s
