@@ -88,11 +88,9 @@ The analysis revealed several important insights into the sales performance of k
   - **LEGO's Dominance**: With approximately 80% of all orders containing LEGO products, it's clear that LEGO sets are the driving force behind the store’s revenue. This emphasizes the importance of maintaining a wide    
     selection and competitive pricing for these products.
   - **Seasonal Strategies**: The data suggest that sales are highly influenced by seasonal trends, with significant peaks during winter holidays and summer months. Tailored promotions and advertising campaigns during     
-     these 
-  periods could maximize revenue potential.
+     these periods could maximize revenue potential.
   - **Product Popularity**: While popular LEGO sets dominate, small functional pieces like LEGO 32171 also contribute significantly to sales. This opens up opportunities to promote and stock up on smaller, complementary 
-    items 
-  that customers might purchase alongside larger sets.
+    items that customers might purchase alongside larger sets.
   - **Geographic Focus**: The majority of sales come from large urban centers such as Warsaw and Wrocław. Expanding marketing efforts in these areas—through digital marketing, local ads, or even billboard campaigns—could 
   further increase sales and brand visibility.
 
