@@ -77,8 +77,7 @@ The analysis revealed several important insights into the sales performance of k
   - **Best-selling LEGO sets**: The LEGO 6008 and LEGO 32171 models were the most frequently purchased, each with 16 orders. Interestingly, LEGO 32171 is not a traditional LEGO set but a pin used to connect various             structural     elements, indicating that smaller, functional components also contribute significantly to overall sales.
   - These results highlight the need to ensure a constant supply of both popular sets and smaller accessory pieces, which customers often purchase to complement larger sets.
 4. ## Geographic Sales Insights:
-    - **Top cities for sales**: Warsaw, Wrocław, Cracow, Poznań, and Łódź were the top 5 cities in terms of sales volume, with Warsaw leading the way. This suggests a concentration of customers in major urban areas,       
-     potentially offering opportunities for region-specific marketing campaigns or localized promotions.
+    - **Top cities for sales**: Warsaw, Wrocław, Cracow, Poznań, and Łódź were the top 5 cities in terms of sales volume, with Warsaw leading the way. This suggests a concentration of customers in major urban areas,          potentially offering opportunities for region-specific marketing campaigns or localized promotions.
 5. ## Seasonal Trends:
   - **Peak sales periods**: The analysis identified two primary sales peaks – during the winter holiday season (driven by Christmas shopping) and the summer vacation period. These trends suggest that targeted promotions  
    during these times could further boost sales.
