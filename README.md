@@ -58,8 +58,11 @@ The primary objective of this project was to perform a detailed analysis of the 
 The analysis focused on several key areas:
 
   1.**LEGO Orders**: Counted orders containing LEGO products based on specific patterns in product names.
+
   2.**Order Size**: Identified the top 10 largest orders by product count.
+
   3.**Revenue Analysis**: Grouped and calculated monthly revenues, both overall and specifically for LEGO products.
+
   4.**Product Trends**: Determined which LEGO sets were most frequently purchased, based on product codes.
 
 # Results:
